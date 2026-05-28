@@ -1,4 +1,4 @@
-import app from "./app.js"
+import app from './src/app.js'
 import { connectDB } from "./node_js_project/config/db.js"
 import { config } from "./config/index.js";
 
